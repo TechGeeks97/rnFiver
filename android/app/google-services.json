@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398806618409",
+    "project_id": "erpglt",
+    "storage_bucket": "erpglt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398806618409:android:b06f256a81c3699eb0e738",
+        "android_client_info": {
+          "package_name": "com.erpglt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398806618409-qqjefq73i188kbp67abr8s7hhl35t3ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKgrCDOKzT3fVdR_myd1lO-kXGWhxV9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398806618409-qqjefq73i188kbp67abr8s7hhl35t3ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
